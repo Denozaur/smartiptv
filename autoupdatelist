@@ -1,0 +1,541 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 ,ТВA-17.11.24 fas-tv.com
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+##EXTINF:-1, 1+1 Int
+http://cdn.troya.one:80/ch218/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMhcHUzZYKwqnHuBBCmlAbN_hk0sl3e1ugz1b5MuXucv
+#EXTINF:-1, 1+1 Украина
+http://cdn.troya.one:80/ch332/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCBKxYTlPdv0EWtbBx3RI4W2hosarZd5_S2qIkyqB2lW
+#EXTINF:-1 tvg-id="b90171079534a62d5f63f6cb409f077d" tvg-chno="1",1+1 Ukraine
+http://176.65.146.132:9981/stream/channelid/124846521?profile=iptv.org.ua
+#EXTINF:-1 tvg-id="2d0b4aa283dff08d3f43a11162a63862" tvg-chno="1",1+1 Ukraine
+http://176.65.146.132:9981/stream/channelid/575277869?profile=iptv.org.ua
+#EXTINF:-1,2+2
+http://176.65.146.132:9981/stream/channelid/2051625718?profile=iptv.org.ua
+#EXTINF:-1,2plus2
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147608&extension=ts
+#EXTINF:-1,2+2 HD
+http://cdn.troya.one:80/ch092/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLAf_NEomfmAmHnS-5OCCN8KZWi_1JsGxhOIY9pZXNkr
+#EXTINF:-1 ,UA 2+2
+http://cdn.troya.one:80/ch733/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMaWbRMQ2HV94M_tavvzgGquUv2eB7KBEb7Ll4Xiggre
+#EXTINF:-1,ICTV СЕРІАЛ
+https://vs847.vcdn.biz/b1cacdcfe9d0e6e7402bfee786001b62_megogo/live/hls/dscte/2/advtracker/1/b/700_2490/u_sid/0/o/195113391/rsid/174c67db-0008-4823-8c0f-8142686e5ae8/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/176.98.8.68*asn/u_srvc/81235/u_did/web_fXAUAC6dRqIyPEOMB02F5h294TuveGSY/type.live/chunklist-sid2292503938375066663-b2490000.m3u8
+#EXTINF:-1,ICTV СЕРІАЛ Р
+https://vs847.vcdn.biz/9dbd124e795e7c3a27cb7e791c6f29d2_megogo/live/hls/dscte/2/advtracker/1/b/700_2490/u_sid/0/o/195113391/rsid/c3fad095-aedb-4a0e-816b-dfd850b1033b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/176.98.8.68*asn/u_srvc/81235/u_did/web_fXAUAC6dRqIyPEOMB02F5h294TuveGSY/type.live/chunklist-sid2292503938375066663-b2490000.m3u8
+#EXTINF:-1,ICTV 2 
+http://cdn.troya.one:80/ch658/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNuAujk1z94NenQcrmTQIVxwphn0us5DsREdlFttfN5q
+#EXTINF:-1 tvg-id="324d27978972fad4efaec33e170c5143" tvg-chno="11",ICTV 2
+http://176.65.146.132:9981/stream/channelid/388451634?profile=iptv.org.ua
+#EXTINF:-1 tvg-id="0b19aa9a8a51c4ba8bda050a1977b39a",STB SD
+http://176.65.146.132:9981/stream/channelid/447355147?profile=iptv.org.ua
+#EXTINF:-1 tvg-id="6bcc22a4e7b6bf2c76f7fd791f0f2acc" tvg-chno="7",STB HD
+http://176.65.146.132:9981/stream/channelid/606260331?profile=iptv.org.ua
+#EXTINF:-1,СТБ
+http://cdn.troya.one:80/ch222/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD_-Tvh-j8-IX7yL974r-mAsEAAc-4HCvfTqi0NCQ1uH
+#EXTINF:-1,CтБ 
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147654&extension=ts
+#EXTINF:-1 tvg-id="e3d5796926565eb956c6735376393299" tvg-chno="8",NOVY CHANNEL HD
+http://176.65.146.132:9981/stream/channelid/1769592291?profile=iptv.org.ua
+#EXTINF:-1,Новый Канал
+http://cdn.troya.one:80/ch221/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iIALEwFl1lzNAF-dXgnYergjntEzdeN7UYpgwZGc1hoC
+#EXTINF:-1,Новий канал FHD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147646&extension=ts
+#EXTINF:-1 tvg-id="f511481231a767dd54ca0d8b0766c3e0" tvg-chno="19",NTN HD
+http://176.65.146.132:9981/stream/channelid/306713077?profile=iptv.org.ua
+#EXTINF:-1,HTH HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147661&extension=ts
+#EXTINF:-1,НТН
+http://cdn.troya.one:80/ch225/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHJHS5SneG_j8KhPXWy6EtYJYnnbHSAWSGfjpj-5oiGH
+#EXTINF:-1,ТеТ
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147655&extension=ts
+#EXTINF:-1,ТЕТ
+http://cdn.troya.one:80/ch224/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAJ7Vzl4LhlhTZQb-7YuJuiELJzLzQJXjncZHaXo4uvC
+#EXTINF:-1,K1
+http://cdn.troya.one:80/ch251/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iC7pHXkhF5cC7xHvYjxVK4Kbi833iA9XvH0POFO-Q1kO
+#EXTINF:-1,K1 HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147630&extension=ts
+#EXTINF:-1,Enter-Фільм HD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=147618&extension=ts
+#EXTINF:-1,Enter-фильм
+http://cdn.troya.one:80/ch297/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPCZ3dqHoCKrdJyAFhofbLQEkSkg_2fmsDDaQ7QGQJI4
+#EXTINF:-1,Интер+ 
+http://cdn.troya.one:80/ch304/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJTSwq0gxLZ94VTDfGceUoSJHhDnfhqS0Wn4EtihuLk3
+#EXTINF:-1,KinoSweet UA HD
+http://95.67.12.180:11111
+#EXTINF:-1,FILMUADRAMA
+https://vs828.vcdn.biz/ca13708b165963b7d7424d91774d6c5e_megogo/live/hls/b/700/u_sid/0/o/86395561/rsid/22505dd8-24f5-4766-ade9-fe03f32f3869/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/176.98.8.68*asn/type.live/chunklist-sid4992332445521068046-b700000.m3u8
+#EXTINF:-1,JUST
+http://185.236.229.62:9981/play/a08e
+#EXTINF:-1,КП HD
+http://45.159.74.13:80/Kinopremera/index.m3u8
+#EXTINF:-1,К=премьера
+http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинопремьера 1920x1080
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1,Кинопремьера 
+https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://82.215.111.227/1207/index.m3u8?token=fas-tv.com
+#EXTINF:-1,KINOHIT [720x576]
+http://82.215.111.227/1055/index.m3u8?token=fas-tv.com
+#EXTINF:-1,КиноХит 
+https://stream1.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кино Хит
+http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kinohit
+rtmp://5.182.229.90//7250
+#EXTINF:-1,Кино хит sd
+http://45.159.74.13:80/Kinokhit/index.m3u8
+#EXTINF:-1,Киносвидание 
+https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kinosvidanie
+rtmp://5.182.229.90//7245
+#EXTINF:-1,Кинокомедия 
+https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинокомедия
+rtmp://5.182.229.90//7248
+#EXTINF:-1,Кинокомедия HD
+http://82.215.111.227/1232/index.m3u8?token=iptv.org.ua
+#EXTINF:-1,КИНОМИКС 
+http://77.235.1.17/kinomix/index.m3u8
+#EXTINF:-1,КИНО Микс
+http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+#EXTINF:-1,Киномикс 
+https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Киномикс HD
+http://82.215.111.227/1233/index.m3u8?token=iptv.org.ua
+#EXTINF:-1,Кино Серия
+http://82.215.111.227/1235/index.m3u8?token=iptv.org.ua
+#EXTINF:-1,Киносерия 
+https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Киносемья HD
+http://82.215.111.227/1234/index.m3u8?token=iptv.org.ua
+#EXTINF:-1,Киносемья- HD
+rtmp://5.182.229.90//7244
+#EXTINF:-1,Киносемья 
+https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://82.215.111.227/1237/index.m3u8?token=iptv.org.ua
+#EXTINF:-1,Мужское кино 
+https://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мужское кино SD
+http://stream01.vnet.am/MujskoeKino/index.m3u8
+#EXTINF:-1,Мужское Кино sd
+http://45.159.74.14:80/MujskoeKino/index.m3u8
+#EXTINF:-1,VIP Comedy
+http://77.235.1.17/vip_comedy/index.m3u8
+#EXTINF:-1,VIP Megahit
+http://77.235.1.17/vip_megahit/index.m3u8
+#EXTINF:-1,VIP Serial
+http://77.235.1.17/vip_serial/index.m3u8
+#EXTINF:-1,VIP PREMIERE
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1,VIP COMEDY
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
+#EXTINF:-1,viju+ TV1000 новелла
+http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1,Viasat Kino World
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1,Viasat Kino Comedy
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
+#EXTINF:-1,Viasat Kino HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
+#EXTINF:-1,Viasat Kino Action 
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
+#EXTINF:-1,Viasat Kino Megahit HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
+#EXTINF:-1,Viasat World
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
+#EXTINF:-1,Kinowood
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
+#EXTINF:-1,Kinoliving
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
+#EXTINF:-1,TV1000 Р Кино
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV1000
+http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:-1,TV 1000
+https://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1,viju TV1000 SD
+http://77.235.1.17/tv1000/index.m3u8
+#EXTINF:-1,viju TV1000 Action
+http://77.235.1.17/tv1000_action/index.m3u8
+#EXTINF:-1,viju TV1000 Action 
+https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV 1000 [900x720]
+http://82.215.111.227/1058/index.m3u8?token=fas-tv.com
+#EXTINF:-1,TV 1000 ACTION
+http://82.215.111.227/1225/index.m3u8?token=fas-tv.com
+#EXTINF:-1,TV 1000 R
+http://82.215.111.227/1059/index.m3u8?token=fas-tv.com
+#EXTINF:-1,КИНОМАН HD
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kinoman HD
+http://88.218.242.237:8000/play/a002
+#EXTINF:-1,Kinoman
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1,Hollywood SD
+https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://82.215.111.227/1443/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Техно 24
+http://82.215.111.227/1037/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Персик ТВ ВАН ДАММ
+https://fs2.persik.by/VanDam7/index.m3u8
+#EXTINF:-1,Персик ТВ Triller
+https://fs2.persik.by/Triller/index.m3u8
+#EXTINF:-1,Персик ТВ ТВОЕ КИНО
+https://fs2.persik.by/Tvoe_Kino_7/index.m3u8
+#EXTINF:-1,TV3 plus HD
+http://87.99.87.203:2020/channel/7a5e2ab5/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1,Go3 Films FHD
+http://87.99.87.203:2020/channel/5023b065/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1,Duo3 HD
+http://87.99.87.203:2020/channel/2af95c64/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1,Duo6
+http://87.99.87.203:2020/channel/2afab981/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1,Кино ТВ
+http://77.235.1.17/kino_tv/index.m3u8
+#EXTINF:-1,КИНЕКО HD
+http://s5.merlive.am:80/kineko/index.m3u8
+#EXTINF:-1,Еврокино
+http://86.57.198.251:8181/play/1022/index.m3u8
+#EXTINF:-1,Иллюзион+
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
+#EXTINF:-1,KinoSweet UA HD
+http://95.67.12.180:11111
+#EXTINF:-1,Kinojam 1 HD
+rtmp://5.182.229.90//7260
+#EXTINF:-1,Kinojam 2
+rtmp://5.182.229.90//7261
+#EXTINF:-1,Scream
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94865.m3u8
+#EXTINF:-1,SCREAM
+http://88.218.242.237:8000/play/a00c
+#EXTINF:-1,SUSPENSE
+http://88.218.242.237:8000/play/a005
+#EXTINF:-1,DetectiveJam HD
+http://88.218.242.237:8000/play/a00a
+#EXTINF:-1,WM
+http://88.218.242.237:8000/play/a00l
+#EXTINF:-1,Лавстори HD
+http://88.218.242.237:8000/play/a00v
+#EXTINF:-1,Romance HD
+http://88.218.242.237:8000/play/a004
+#EXTINF:-1,ФЕНИКС
+http://88.218.242.237:8000/play/a007
+#EXTINF:-1,Museum TV 4k
+http://88.218.242.237:8000/play/a00g
+#EXTINF:-1,VHS-ка
+http://88.218.242.237:8000/play/a00x
+#EXTINF:-1,Видеокассета VHS
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,Сити Эдем - Кино Комедия
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1,Сити Эдем - Кино Экшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1,Сити Эдем - Кино Мистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1,Сити Эдем - Кино Детектив
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1,Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1,Malder Ужас
+https://autopilot.catcast.tv/content/47764/index.m3u8
+#EXTINF:-1,Малдер Кинозал
+https://autopilot.catcast.tv/content/47180/index.m3u8
+#EXTINF:-1,Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,KINOPOKAZ
+http://82.215.111.227/1057/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Кинопоказ 
+https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1,КИНОПОКАЗ
+http://158.101.194.132:8080/channel/n7ffadd45/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,HORROR
+http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,ХИТ
+http://158.101.194.132:8080/channel/n484decb9/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,Кино Меню
+http://158.101.194.132:8080/channel/489a40cb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,Киноклассика
+http://158.101.194.132:8080/channel/7e5a40bb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,Movie Classic
+http://158.101.194.132:8080/channel/n3b2f2768/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,Советское Кино
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,Novella TV
+http://158.101.194.132:8080/channel/7d3fabec/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1,Velilla TV Action War Films HD
+http://158.101.194.132:8888/channel/613bf965/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+#EXTINF:-1,Velilla TV Cinema 4K
+http://158.101.194.132:8888/channel/n2fccd864/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
+#EXTINF:-1,Bolt
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+#EXTINF:-1,Bolt SD
+http://77.235.1.17/bolt/index.m3u8
+#EXTINF:-1,High Network
+http://ott.high-net.ru/High_Network/index.m3u8?token=High_Network
+#EXTINF:-1,High Cinema Premiere
+http://ott.high-net.ru/High_Cinema_premiere/index.m3u8?token=High_Network
+#EXTINF:-1,CINEMA [1350x1080]
+http://82.215.111.227/1227/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Cinema HD
+https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cinema
+http://77.235.1.17/cinema/index.m3u8
+#EXTINF:-1,312 Сериал
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1,312 Кино
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
+#EXTINF:-1,FILM TV GROUP
+http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
+#EXTINF:-1,Новосілки ТБ
+http://filmtvgroup.hopto.org:8080/novosilkitb/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
+#EXTINF:-1,Блокбастер
+http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
+#EXTINF:-1,Премиальное
+http://77.235.1.17/premialnoe/index.m3u8
+#EXTINF:-1,Премиальное hd
+rtmp://5.182.229.90//7222
+#EXTINF:-1,Мировое Кино
+http://77.235.1.17/mirovoe_kino/index.m3u8
+#EXTINF:-1,Кинобоевик
+http://77.235.1.17/kino_boevik/index.m3u8
+#EXTINF:-1,Премиум Кино
+http://77.235.1.17/premium_kino/index.m3u8
+#EXTINF:-1,Plan B HD
+http://77.235.1.17/planb/index.m3u8
+#EXTINF:-1,Star Cinema
+http://77.235.1.17/star_cinema/index.m3u8
+#EXTINF:-1,Star Family
+http://77.235.1.17/star_family/index.m3u8
+#EXTINF:-1,START Air
+http://77.235.1.17/start_air/index.m3u8
+#EXTINF:-1,START World
+http://77.235.1.17/start_world/index.m3u8
+#EXTINF:-1,Cineman
+http://77.235.1.17/tv100_action/index.m3u8
+#EXTINF:-1,Синеман RKino
+http://77.235.1.17/tv100_ruskino/index.m3u8
+#EXTINF:-1,Синеман TOP
+http://77.235.1.17/tv100_top/index.m3u8
+#EXTINF:-1,Cinema Космос ТВ HD BY
+http://178.124.152.238:8088/cinema
+#EXTINF:-1,Victory HD
+http://158.101.214.187:8080/channel/3b50998/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1,Just tv
+http://185.236.229.62:9981/play/a08e
+#EXTINF:-1,ATV Kino
+http://stream01.vnet.am/Channel_118/mono.m3u8
+#EXTINF:-1,Нове тв 
+https://novoe.top/nove_tv.m3u8.jpg?m3u8
+#EXTINF:-1,НСТ SD
+http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1,NST
+http://185.23.80.28:8080/NST/index.m3u8?token=test
+#EXTINF:-1,Страшное 
+rtmp://5.182.229.90//7247
+#EXTINF:-1,Киноужас
+http://77.235.1.17/kinoujas/index.m3u8
+#EXTINF:-1,Шокирующее HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1,Индийское кино SD
+http://sc.id-tv.kz/Indiiskoe_kino.m3u8
+#EXTINF:-1,Индийское кино 
+https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Индия
+http://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1,ИНДИЙСКОЕ КИНО  [720x576]
+http://82.215.111.227/1060/index.m3u8?token=fas-tv.com
+#EXTINF:-1,BOLLYWOOD [900x720]
+http://82.215.111.227/1444/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Bollywood hd
+https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox  
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1,FX HD
+http://sc.id-tv.kz/FOX_HD.m3u8
+#EXTINF:-1,FOX 
+rtmp://5.182.229.90//7318
+#EXTINF:-1,A1
+http://stream01.vnet.am/Channel_128/mono.m3u8
+#EXTINF:-1,Amedia 1
+http://45.143.108.104/AMEDIA1_SD/index.m3u8
+#EXTINF:-1,Amedia 1 sd
+http://77.235.1.17/amedia1/index.m3u8
+#EXTINF:-1,Amedia 2 
+http://45.143.108.104/AMEDIA2_HD/index.m3u8
+#EXTINF:-1,A2
+http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A2 SD
+http://135.181.115.81:8000/play/a00r/index.m3u8?token=livetv
+#EXTINF:-1,Amedia Hit 
+http://77.235.1.17/amedia_hit/index.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://stream01.vnet.am/Nauka/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://stream01.vnet.am/AmediaPremium/index.m3u8
+#EXTINF:-1,Sci-Fi
+http://s5.merlive.am:80/Sci-Fi/index.m3u8
+#EXTINF:-1,.SCI-FI sd
+http://stream01.vnet.am/Kinoseriya/mono.m3u8
+#EXTINF:-1,RED
+http://178.124.152.238:8088/sony
+#EXTINF:-1,ТСВ iptv-org-ua
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1,FilmZone
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FLIX Snip
+http://95.67.12.82:9061
+#EXTINF:-1,Continent E
+http://95.67.12.82:9083
+#EXTINF:-1,Dorama
+http://95.67.12.82:9046
+#EXTINF:-1,Дорама 
+https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DORAMA
+http://82.215.111.227/1273/index.m3u8?token=fas-tv.com
+#EXTINF:-1,TV 1 KG FHD
+https://rebrand.ly/tqiq6lv/ROSTIK-TV/TV-1-KG
+#EXTINF:-1, Usba Кинозал 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1, Usba Кинозал 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1, Usba Кинозал 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1, Usba Кинозал 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1, Usba Кинозал 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1, Usba Кинозал 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 32
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1, Usba Кинозал 33
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Usba Кинозал 36
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1, Usba Кинозал 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1,ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
+#EXTINF:-1,ТНТ4 International 
+http://sc.id-tv.kz/tnt4_34_35.m3u8
+#EXTINF:-1,Timeless Dizi Channel
+http://194.158.222.36:6086
+#EXTINF:-1,Дом Кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1,ДОМ КИНО
+http://82.215.111.227/1054/index.m3u8?token=fas-tv.com
+#EXTINF:-1,ДОМ КИНО ПРЕМИУМ
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Наше новое Кино 
+https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1,N NOVOE KINO
+http://82.215.111.227/1051/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Перец Int
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:-1,ПЕРЕЦ
+http://178.124.152.238:8088/perec
+#EXTINF:-1,Телекафе SD
+http://stream01.vnet.am/Telekafe/mono.m3u8
+#EXTINF:-1,Домашний +  
+http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ДОМАШНИЙ [920x720]
+http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
+#EXTINF:-1,СТС HD
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СТС
+https://streaming.goodstream.cyou/live/296.m3u8
+#EXTINF:-1,СТС Love
+http://185.23.80.28:8080/STSLove/index.m3u8?token=test
+#EXTINF:-1,Рен ТВ
+http://stream01.vnet.am/RenTv/mono.m3u8
+#EXTINF:-1,Че
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/chetv/playlist.m3u8
+#EXTINF:-1,ТВ 3 
+http://stream01.vnet.am/Channel_121/mono.m3u8
+#EXTINF:-1,ТВ3
+http://82.215.111.227/1435/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Пятница! International (Казахстан)
+http://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1,Пятница
+http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
+#EXTINF:-1,Р иллюзион 720x576
+http://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
+#EXTINF:-1,Ру роман
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1,Ру Детектив
+http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
+#EXTINF:-1,РОДНОЕ КИНО
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:-1,Родное Кино 
+https://stream1.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://82.215.111.227/1052/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Любимое Кино
+http://86.57.198.251:8181/play/1031/index.m3u8
+#EXTINF:-1,Золотая Коллекция SD
+http://77.235.1.17/mosfilm/index.m3u8
+#EXTINF:-1,Золотая коллекция HD
+rtmp://5.182.229.90//7347
+#EXTINF:-1,Ретро
+http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1,RETRO
+http://82.215.111.227/1047/index.m3u8?token=fas-tv.com
+#EXTINF:-1,Ностальгия
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1,НОСТАЛЬГИЯ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
